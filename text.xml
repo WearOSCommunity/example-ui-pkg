@@ -1,8 +1,8 @@
 <Widget>
-    <PartText name="TextComponent" alpha="255" height="30" pivotX="0.5" pivotY="0.5"
-        width="100" x="0" y="0">
-        <Text align="CENTER" ellipsis="TRUE">
-            <Font color="#ffffffff" family="SYNC_TO_DEVICE" size="25" slant="NORMAL"
+    <PartText name="TextComponent" alpha="255" height="100" pivotX="0.5" pivotY="0.5"
+        width="500" x="-50" y="0">
+        <Text align="CENTER">
+            <Font color="#ffffffff" family="SYNC_TO_DEVICE" size="40" slant="NORMAL"
                 weight="NORMAL">
                 Sample component
             </Font>
